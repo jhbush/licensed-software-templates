@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<licensedSoftwareObject>
+	<displayName>SecureCRT</displayName>
+	<publisher>VanDyke Software, Inc.</publisher>
+	<platform>Mac</platform>
+	<softwareDefinitions>
+		<applications>
+			<application>
+				<name>SecureCRT.app</name>
+				<compare>like</compare>
+				<version>7.</version>
+			</application>
+		</applications>
+		<fonts/>
+		<plugins/>
+	</softwareDefinitions>
+</licensedSoftwareObject>

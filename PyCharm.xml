@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<licensedSoftwareObject>
+	<displayName>PyCharm</displayName>
+	<publisher>JetBrains s.r.o</publisher>
+	<platform>Mac</platform>
+	<softwareDefinitions>
+		<applications>
+			<application>
+				<name>PyCharm.app</name>
+				<compare>like</compare>
+				<version>3.</version>
+			</application>
+		</applications>
+		<fonts/>
+		<plugins/>
+	</softwareDefinitions>
+</licensedSoftwareObject>

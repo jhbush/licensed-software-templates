@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<licensedSoftwareObject>
+	<displayName>PST Bridge</displayName>
+	<publisher>Arrow Bit SL.</publisher>
+	<platform>Mac</platform>
+	<softwareDefinitions>
+		<applications>
+			<application>
+				<name>PST Bridge.app</name>
+				<compare>like</compare>
+				<version>2.</version>
+			</application>
+		</applications>
+		<fonts/>
+		<plugins/>
+	</softwareDefinitions>
+</licensedSoftwareObject>
