@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<licensedSoftwareObject>
+	<displayName>Adobe Creative Suite 5.5 - Web Premium</displayName>
+	<publisher>Adobe Systems Incorporated</publisher>
+	<platform>Mac</platform>
+	<softwareDefinitions>
+		<applications>
+			<application>
+				<name>Adobe Dreamweaver CS5.5.app</name>
+				<compare>like</compare>
+				<version>11.</version>
+			</application>
+			<application>
+				<name>Adobe Contribute CS5.1.app</name>
+				<compare>like</compare>
+				<version>6</version>
+			</application>
+			<application>
+				<name>Adobe Fireworks CS5.1app</name>
+				<compare>like</compare>
+				<version>11.</version>
+			</application>
+			<application>
+				<name>Adobe Flash CS5.5.app</name>
+				<compare>like</compare>
+				<version>11.</version>
+			</application>
+			<application>
+				<name>Adobe Flash Builder 4.app</name>
+				<compare>like</compare>
+				<version>4.</version>
+			</application>
+			<application>
+				<name>Adobe Flash Catalyst CS5.5.app</name>
+				<compare>like</compare>
+				<version>1.</version>
+			</application>
+			<application>
+				<name>Adobe Illustrator.app</name>
+				<compare>like</compare>
+				<version/>
+			</application>
+            <application>
+				<name>Adobe Photoshop CS5.1.app</name>
+				<compare>like</compare>
+				<version>12.</version>
+			</application>
+		</applications>
+		<fonts/>
+		<plugins/>
+	</softwareDefinitions>
+</licensedSoftwareObject>
